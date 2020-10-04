@@ -21,10 +21,7 @@ A user will be able to add expenses or deposits to their budget either online or
 
 Offline 
 
-![Offline](./assets/img/offline.PNG)
-
-Online
-![Online](./assets/img/online.PNG)
+![Offline](./public/assets/img/offline.PNG)
 
 ## License
 N/A
