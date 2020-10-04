@@ -14,7 +14,7 @@ A budget tracker application that will function either online or offline. A user
 * [Questions](#questions)
 
 ## Installation
-To pre-populate database, type npm run seed from Node.js command line. Npm install will install the required dependencies from the package.json file. 
+NPM install Express, Morgan, Mongoose and Compression.
 
 ## Usage
 A user will be able to add expenses or deposits to their budget either online or offline. 
